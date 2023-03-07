@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\bin\Debug\net6.0\Class02_Exercises_1-7.exe
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\bin\Debug\net6.0\Class02_Exercises_1-7.deps.json
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\bin\Debug\net6.0\Class02_Exercises_1-7.runtimeconfig.json
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\bin\Debug\net6.0\Class02_Exercises_1-7.dll
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\bin\Debug\net6.0\Class02_Exercises_1-7.pdb
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\Class02_Exercises_1-7.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\Class02_Exercises_1-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\Class02_Exercises_1-7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\Class02_Exercises_1-7.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\Class02_Exercises_1-7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\Class02_Exercises_1-7.dll
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\refint\Class02_Exercises_1-7.dll
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\Class02_Exercises_1-7.pdb
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\Class02_Exercises_1-7.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Basic_C#\Class02\Class02_Exercises_1-7\Class02_Exercises_1-7\obj\Debug\net6.0\ref\Class02_Exercises_1-7.dll
